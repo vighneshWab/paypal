@@ -15,16 +15,6 @@ export class PaypalcheckoutComponent implements OnInit {
   constructor() {
 
   }
-
-
-  // Paypal ID =   info@captainsheep.com
-  // Password = 0891585150
-
-  // test invermet
-
-  // Login    ::  info@raspberry.co.th
-  // Password ::  0891585150
-
   ngOnInit() {
 
     this.paypalObject = {
