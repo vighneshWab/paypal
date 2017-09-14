@@ -12,4 +12,4 @@ Step 7 export const PayPalButtonModule = paypal.Button.driver('angular2',ngCore)
 
 Step 8 imports: [ PayPalButtonModule ] add this into imports
 Step 9 ng generate component  PaypalcheckoutComponent
-Step 10. 
+Step 10. clone repo and see the PaypalcheckoutComponent.html,PaypalcheckoutComponent.ts for refrence.
